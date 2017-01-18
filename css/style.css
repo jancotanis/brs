@@ -311,7 +311,7 @@ header {
 
 @media (min-width: 768px) {
 	.intro-text .intro-heading {
-		line-height: 95px;
+		line-height: 70px;
 		font-size: 77px;
 		margin-bottom: 50px;
 	}
