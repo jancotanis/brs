@@ -288,7 +288,6 @@ header {
 	font-size: 19px;
 	color: #fff;
 	font-weight: 100;
-	xline-height: 40px;
 }
 
 @media (min-width: 768px) {
@@ -494,7 +493,6 @@ and (max-width : 768px) {
 
 .featured-item {
 	margin-bottom: 30px;
-	height: 110px;
 }
 
 .featured-icon {
